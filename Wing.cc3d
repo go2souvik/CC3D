@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/Wing.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/Wing.py</PythonScript>
+   <Resource Type="Python">Simulation/WingSteppables.py</Resource>
+</Simulation>
